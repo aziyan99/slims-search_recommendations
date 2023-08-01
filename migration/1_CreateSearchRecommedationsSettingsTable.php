@@ -1,9 +1,9 @@
 <?php
 
 /**
- * @Created by          : Waris Agung Widodo (ido.alit@gmail.com)
- * @Date                : 14/03/2021 18:03
- * @File name           : 1_CreateReadCounterTable.php
+ * @Created by          : Raja Azian <rajaazian08@gmail.com>
+ * @Date                : 20/07/2023 18:03
+ * @File name           : 1_CreateSearchRecommedationsSettingsTable.php
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
